@@ -4,4 +4,4 @@ const TickePage = ({ params }) => {
   return <TicketForm />;
 };
 
-export default TickePage;
+export default TickePage; //otro cambio
